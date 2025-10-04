@@ -24,31 +24,37 @@
 11. [References](#references)
 12. [Conclusion](#conclusion)
 
-## Program Overview
+---
 
-Building upon the foundation established in [Week 0](https://github.com/Vansh0917/RISC-V-Reference-SoC-Tapeout-Program_VLSI_Week_0), Week 2 focuses on understanding System-on-Chip (SoC) design fundamentals and implementing functional modeling using the VSDBabySoC platform. This week bridges theoretical knowledge with practical implementation skills essential for the complete 20-week tapeout journey.
+## 📘 Program Overview – Week 2
 
-The VSDBabySoC serves as our educational platform - a simplified mixed-signal SoC containing:
-- **RVMYTH**: RISC-V based processor core
-- **PLL**: Phase-Locked Loop for clock generation
-- **DAC**: 10-bit Digital-to-Analog Converter
-- **Integration fabric**: System interconnections
+Building on the foundation from **Week 0**, Week 2 emphasizes **System-on-Chip (SoC) fundamentals** and **functional modeling** using the **VSDBabySoC platform**. This stage bridges theoretical knowledge with hands-on skills, laying the groundwork for the complete **20-week tapeout journey**.
 
-## Week 2 Objectives
+### 🔧 VSDBabySoC Components
 
-### Part 1 - Theoretical Understanding
-- Master fundamental SoC design concepts and principles
-- Understand component integration and system architecture
-- Analyze the educational value of VSDBabySoC as a learning platform
-- Explore mixed-signal design considerations
+* **RVMYTH** – RISC-V based processor core
+* **PLL** – Phase-Locked Loop for clock generation
+* **DAC** – 10-bit Digital-to-Analog Converter
+* **Integration Fabric** – System interconnections
 
-### Part 2 - Practical Implementation
-- Setup and configure EDA simulation environment
-- Perform pre-synthesis functional verification
-- Execute waveform analysis using GTKWave
-- Document comprehensive simulation results
-- Attempt post-synthesis simulation (Gate-Level Simulation)
+---
 
+## 🎯 Week 2 Objectives
+
+### Part 1 – Theoretical Understanding
+
+* Master **SoC design principles** and fundamental concepts
+* Understand **component integration** and system-level architecture
+* Analyze **educational value** of the VSDBabySoC platform
+* Explore **mixed-signal design considerations**
+
+### Part 2 – Practical Implementation
+
+* Setup & configure **EDA simulation environment**
+* Perform **pre-synthesis functional verification**
+* Execute **waveform analysis** with GTKWave
+* Document detailed **simulation results**
+* Attempt **post-synthesis simulation (GLS)**
 
 ---
 
